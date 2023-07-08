@@ -17,8 +17,8 @@ how to use the package.
 
 ## Support
 
-![公众号](https://github.com/oyogames2023/zeus-config/blob/main/OfficialAccount.jpg)
-![作者](https://github.com/oyogames2023/zeus-config/blob/main/WeChat.jpg)
+![公众号](https://github.com/oyogames2023/zeus-config/blob/main/OfficialAccount.png)
+![作者](https://github.com/oyogames2023/zeus-config/blob/main/WeChat.png)
 
 ## License
 
