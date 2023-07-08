@@ -1,3 +1,5 @@
+##### Translate to: [简体中文](README_zh.md)
+
 ## zeus-config
 
 Zeus Config is a universal configuration management solution built on top of Viper. 
